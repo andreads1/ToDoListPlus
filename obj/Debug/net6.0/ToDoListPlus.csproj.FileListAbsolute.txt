@@ -1,0 +1,978 @@
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\bin\Debug\net6.0\appsettings.json
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.staticwebassets.runtime.json
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.exe
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.deps.json
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.runtimeconfig.json
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.dll
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\bin\Debug\net6.0\ref\ToDoListPlus.dll
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.pdb
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.AssemblyInfo.cs
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.RazorAssemblyInfo.cache
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.RazorAssemblyInfo.cs
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\obj\Debug\net6.0\scopedcss\bundle\ToDoListPlus.styles.css
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\obj\Debug\net6.0\scopedcss\projectbundle\ToDoListPlus.bundle.scp.css
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.dll
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\obj\Debug\net6.0\ref\ToDoListPlus.dll
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.pdb
+C:\Users\Windows\Desktop\TRABALHO LP TO DO PLUS\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.genruntimeconfig.cache
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\appsettings.json
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.staticwebassets.runtime.json
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.exe
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.deps.json
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.runtimeconfig.json
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ref\ToDoListPlus.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.pdb
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.AssemblyInfo.cs
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.RazorAssemblyInfo.cache
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.RazorAssemblyInfo.cs
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\scopedcss\bundle\ToDoListPlus.styles.css
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\scopedcss\projectbundle\ToDoListPlus.bundle.scp.css
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\ref\ToDoListPlus.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.pdb
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.genruntimeconfig.cache
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Windows\Desktop\TODOLIST PLUS ENVIO 1\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.csproj.CopyComplete
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\appsettings.Development.json
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\appsettings.json
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.staticwebassets.runtime.json
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.exe
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.deps.json
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.runtimeconfig.json
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.pdb
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Humanizer.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\MessagePack.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Npgsql.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\NuGet.Common.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.csproj.AssemblyReference.cache
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.GeneratedMSBuildEditorConfig.editorconfig
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.AssemblyInfoInputs.cache
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.AssemblyInfo.cs
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.csproj.CoreCompileInputs.cache
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.MvcApplicationPartsAssemblyInfo.cs
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.MvcApplicationPartsAssemblyInfo.cache
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.RazorAssemblyInfo.cache
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.RazorAssemblyInfo.cs
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\staticwebassets.build.json
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\staticwebassets.development.json
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\scopedcss\bundle\ToDoListPlus.styles.css
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\scopedcss\projectbundle\ToDoListPlus.bundle.scp.css
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.csproj.CopyComplete
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\refint\ToDoListPlus.dll
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.pdb
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.genruntimeconfig.cache
+E:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ref\ToDoListPlus.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\appsettings.Development.json
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\appsettings.json
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.staticwebassets.runtime.json
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.exe
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.deps.json
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.runtimeconfig.json
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ref\ToDoListPlus.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.pdb
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Humanizer.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\MessagePack.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Npgsql.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\NuGet.Common.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.csproj.AssemblyReference.cache
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.GeneratedMSBuildEditorConfig.editorconfig
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.AssemblyInfoInputs.cache
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.AssemblyInfo.cs
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.csproj.CoreCompileInputs.cache
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.MvcApplicationPartsAssemblyInfo.cs
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.MvcApplicationPartsAssemblyInfo.cache
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.RazorAssemblyInfo.cache
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.RazorAssemblyInfo.cs
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\staticwebassets.build.json
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\staticwebassets.development.json
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\scopedcss\bundle\ToDoListPlus.styles.css
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\scopedcss\projectbundle\ToDoListPlus.bundle.scp.css
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.csproj.CopyComplete
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ref\ToDoListPlus.dll
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.pdb
+F:\facul\LP\0React\Trabalho Todo FINAL com BD\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.genruntimeconfig.cache
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\appsettings.json
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.staticwebassets.runtime.json
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.exe
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.deps.json
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.runtimeconfig.json
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ToDoListPlus.pdb
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.csproj.AssemblyReference.cache
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.AssemblyInfoInputs.cache
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.AssemblyInfo.cs
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.RazorAssemblyInfo.cache
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.RazorAssemblyInfo.cs
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\scopedcss\bundle\ToDoListPlus.styles.css
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\scopedcss\projectbundle\ToDoListPlus.bundle.scp.css
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.csproj.CopyComplete
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\refint\ToDoListPlus.dll
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.pdb
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\ToDoListPlus.genruntimeconfig.cache
+C:\Users\Adm\Desktop\LP I\2º Bimestre\Trabalhos\3 To Do List Plus Com Banco de Dados\ToDoListPlus\obj\Debug\net6.0\ref\ToDoListPlus.dll
